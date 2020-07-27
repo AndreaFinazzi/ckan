@@ -7344,7 +7344,7 @@ a.tag:hover {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("../../../base/images/sprite-ckan-icons.png");
+  background-image: url("/catalog/base/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   content: "";
@@ -7415,7 +7415,7 @@ a.tag:hover {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("../../../base/images/sprite-ckan-icons.png");
+  background-image: url("/catalog/base/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   width: 17px;
@@ -8852,7 +8852,7 @@ h4 small {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("../../../base/images/sprite-ckan-icons.png");
+  background-image: url("/catalog/base/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
 }
@@ -9040,11 +9040,11 @@ h4 small {
   top: 2px;
   width: 16px;
   height: 16px;
-  background-image: url("../../../base/images/sprite-ckan-icons.png");
+  background-image: url("/catalog/base/images/sprite-ckan-icons.png");
   background-repeat: no-repeat;
   background-position: 16px 16px;
   text-indent: -900em;
-  background: url("../../../base/images/sprite-resource-icons.png") no-repeat 0 0;
+  background: url("/catalog/base/images/sprite-ckan-icons.png/sprite-resource-icons.png") no-repeat 0 0;
 }
 .format-label {
   width: 32px;
